@@ -1,0 +1,2 @@
+# phactor
+Python factoring script.
